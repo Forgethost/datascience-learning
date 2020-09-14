@@ -25,6 +25,7 @@ def drop_outliers(df,numerical_features_all):
         Q3 = df[c].quantile(0.75)
         IQR = Q3-Q1
         dropIndexes = df[df[c] < Q1-1.5*IQR].index
+        print(dropIndexes)
         df.drop(dropIndexes,inplace=True)
         dropIndexes = df[df[c] > Q3+1.5*IQR].index
         df.drop(dropIndexes,inplace=True)
@@ -43,7 +44,7 @@ def impute_numerical_features(df,numerical_features_all,numerical_imputed_json_p
 def impute_categorical_features(df_imputed,categorical_features_all,categorical_imputed_json_path):
     mode_dict = dict()
     #identify the mode
-    for c in df[categorical_features_all]:
+    for c in df_imputed[categorical_features_all]:
         mode_value = df_imputed[c].mode()
         mode_dict[c] = mode_value
 
@@ -96,7 +97,7 @@ if __name__ == "__main__":
     df = pd.read_csv(raw_data_path)
     #separating feature and target  
     numerical_features_all, categorical_features_all, model_target = identify_model_features(df)
-    
+    print(df.head())
     #removing outliers
     df = drop_outliers(df,numerical_features_all)
     #Impute numerical feature missing with mean value

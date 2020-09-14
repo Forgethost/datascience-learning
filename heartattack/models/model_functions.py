@@ -3,6 +3,15 @@ import os
 import json
 import numpy as np
 
+def check_size_prep_test(predict_raw_data_path):
+    predict_df = pd.read_csv(predict_raw_data_path)
+    if len(predict_df) < 100:
+        raw_data_path = os.path.join(os.path.pardir,"data","raw", "heart_failure_clinical_records_dataset.csv")
+        raw_df = pd.read_csv(raw_data_path)
+        predict_df = pd.concat([raw_df,predict_df],axis=0)
+    return predict_df
+        
+    
 def identify_model_features(df):
     model_features = df.columns.drop('DEATH_EVENT')
     model_target = 'DEATH_EVENT'
@@ -16,9 +25,11 @@ def drop_outliers(df,numerical_features_all):
         Q3 = df[c].quantile(0.75)
         IQR = Q3-Q1
         dropIndexes = df[df[c] < Q1-1.5*IQR].index
-        df.drop(dropIndexes,inplace=True)
+        if len(dropIndexes) > 0:
+            df.drop(dropIndexes,inplace=True)
         dropIndexes = df[df[c] > Q3+1.5*IQR].index
-        df.drop(dropIndexes,inplace=True)
+        if len(dropIndexes) > 0:
+            df.drop(dropIndexes,inplace=True)
     return df
 
 def impute_numerical_features(df,numerical_features_all,numerical_imputed_json_path):
