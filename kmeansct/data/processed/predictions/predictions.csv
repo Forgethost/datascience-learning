@@ -1,167 +1,163 @@
 state,city,case_counts,group
 CT,Andover,9,0
-CT,Griswold,48,0
-CT,Prospect,79,0
-CT,Ansonia,304,0
-CT,Groton,172,0
+CT,Griswold,50,0
+CT,Prospect,78,0
+CT,Ansonia,305,0
+CT,Groton,182,0
 CT,Putnam,42,0
 CT,Ashford,22,0
-CT,Guilford,122,0
+CT,Guilford,129,0
 CT,Redding,75,0
-CT,Avon,161,0
+CT,Avon,173,0
 CT,Haddam,46,0
-CT,Ridgefield,254,0
+CT,Ridgefield,259,0
 CT,Barkhamsted,31,0
-CT,Hamden,1086,2
-CT,Rocky Hill,442,0
-CT,Beacon Falls,61,0
+CT,Hamden,1089,2
+CT,Rocky Hill,453,2
+CT,Beacon Falls,62,0
 CT,Hampton,8,0
-CT,Roxbury,13,0
-CT,Berlin,194,0
-CT,Hartford,2969,1
+CT,Roxbury,14,0
+CT,Berlin,196,0
+CT,Hartford,3070,1
 CT,Salem,15,0
-CT,Bethany,43,0
-CT,Hartland,6,0
-CT,Salisbury,22,0
-CT,Bethel,295,0
+CT,Bethany,44,0
+CT,Hartland,7,0
+CT,Salisbury,25,0
+CT,Bethel,302,0
 CT,Harwinton,35,0
 CT,Scotland,0,0
 CT,Bethlehem,12,0
-CT,Hebron,35,0
-CT,Seymour,234,0
-CT,Bloomfield,546,2
-CT,Kent,14,0
-CT,Sharon,16,0
+CT,Hebron,37,0
+CT,Seymour,236,0
+CT,Bloomfield,557,2
+CT,Kent,18,0
+CT,Sharon,15,0
 CT,Bolton,26,0
-CT,Killingly,49,0
-CT,Shelton,670,2
+CT,Killingly,56,0
+CT,Shelton,687,2
 CT,Bozrah,15,0
-CT,Killingworth,18,0
+CT,Killingworth,20,0
 CT,Sherman,15,0
-CT,Branford,368,0
-CT,Lebanon,28,0
-CT,Simsbury,140,0
-CT,Bridgeport,4021,1
-CT,Ledyard,35,0
-CT,Somers,296,0
-CT,Bridgewater,12,0
+CT,Branford,373,0
+CT,Lebanon,31,0
+CT,Simsbury,143,0
+CT,Bridgeport,4092,1
+CT,Ledyard,41,0
+CT,Somers,292,0
+CT,Bridgewater,13,0
 CT,Lisbon,12,0
-CT,South Windsor,168,0
-CT,Bristol,681,2
+CT,South Windsor,173,0
+CT,Bristol,693,2
 CT,Litchfield,53,0
-CT,Southbury,210,0
-CT,Brookfield,205,0
-CT,Lyme,7,0
-CT,Southington,381,0
-CT,Brooklyn,151,0
-CT,Madison,164,0
+CT,Southbury,211,0
+CT,Brookfield,209,0
+CT,Lyme,8,0
+CT,Southington,387,0
+CT,Brooklyn,156,0
+CT,Madison,167,0
 CT,Sprague,7,0
-CT,Burlington,40,0
-CT,Manchester,794,2
-CT,Stafford,119,0
+CT,Burlington,41,0
+CT,Manchester,818,2
+CT,Stafford,112,0
 CT,Canaan,0,0
-CT,Mansfield,143,0
-CT,Stamford,3509,1
-CT,Canterbury,20,0
-CT,Marlborough,98,0
-CT,Sterling,8,0
-CT,Canton,93,0
-CT,Meriden,1021,2
-CT,Stonington,36,0
+CT,Mansfield,188,0
+CT,Stamford,3560,1
+CT,Canterbury,21,0
+CT,Marlborough,97,0
+CT,Sterling,9,0
+CT,Canton,96,0
+CT,Meriden,1046,2
+CT,Stonington,34,0
 CT,Chaplin,6,0
 CT,Middlebury,54,0
-CT,Stratford,902,2
-CT,Cheshire,247,0
-CT,Middlefield,22,0
-CT,Suffield,177,0
+CT,Stratford,910,2
+CT,Cheshire,255,0
+CT,Middlefield,23,0
+CT,Suffield,178,0
 CT,Chester,50,0
-CT,Middletown,668,2
-CT,Thomaston,69,0
-CT,Clinton,69,0
-CT,Milford,704,2
+CT,Middletown,671,2
+CT,Thomaston,73,0
+CT,Clinton,74,0
+CT,Milford,708,2
 CT,Thompson,47,0
-CT,Colchester,50,0
-CT,Monroe,147,0
+CT,Colchester,55,0
+CT,Monroe,149,0
 CT,Tolland,53,0
 CT,Colebrook,5,0
-CT,Montville,319,0
-CT,Torrington,584,2
-CT,Columbia,29,0
+CT,Montville,323,0
+CT,Torrington,600,2
+CT,Columbia,30,0
 CT,Morris,15,0
-CT,Trumbull,553,2
+CT,Trumbull,561,2
 CT,Cornwall,6,0
-CT,Naugatuck,428,0
+CT,Naugatuck,435,2
 CT,Union,4,0
-CT,Coventry,53,0
-CT,New Britain,1369,2
-CT,Vernon,275,0
-CT,Cromwell,133,0
-CT,New Canaan,212,0
-CT,Voluntown,13,0
-CT,Danbury,2578,1
-CT,New Fairfield,131,0
-CT,Wallingford,530,2
-CT,Darien,251,0
-CT,New Hartford,38,0
+CT,Coventry,58,0
+CT,New Canaan,215,0
+CT,Voluntown,14,0
+CT,Danbury,2677,1
+CT,New Fairfield,136,0
+CT,Wallingford,544,2
+CT,Darien,254,0
+CT,New Hartford,39,0
 CT,Warren,5,0
 CT,Deep River,17,0
-CT,New Haven,2957,1
+CT,New Haven,2979,1
 CT,Washington,27,0
-CT,Derby,187,0
-CT,New London,207,0
-CT,Waterbury,2214,1
-CT,Durham,49,0
-CT,New Milford,330,0
-CT,Waterford,180,0
-CT,East Granby,13,0
-CT,Newington,428,0
-CT,Watertown,167,0
-CT,East Haddam,30,0
-CT,Newtown,272,0
-CT,West Hartford,792,2
+CT,Derby,188,0
+CT,Durham,52,0
+CT,New Milford,334,0
+CT,Waterford,182,0
+CT,East Granby,15,0
+CT,Newington,435,2
+CT,Watertown,166,0
+CT,East Haddam,31,0
+CT,Newtown,285,0
+CT,West Hartford,803,2
 CT,East Hampton,61,0
 CT,Norfolk,14,0
-CT,West Haven,1152,2
-CT,East Hartford,1019,2
+CT,West Haven,1164,2
 CT,North Branford,92,0
-CT,Westbrook,34,0
-CT,East Haven,431,0
-CT,North Canaan,9,0
+CT,Westbrook,38,0
+CT,East Haven,433,2
+CT,North Canaan,10,0
 CT,Weston,86,0
-CT,East Lyme,158,0
-CT,North Haven,297,0
-CT,Westport,347,0
-CT,East Windsor,201,0
+CT,East Lyme,162,0
+CT,North Haven,301,0
+CT,Westport,355,0
+CT,East Windsor,203,0
 CT,North Stonington,15,0
-CT,Wethersfield,286,0
+CT,Wethersfield,294,0
 CT,Eastford,12,0
-CT,Norwalk,2155,1
-CT,Willington,18,0
-CT,Easton,40,0
-CT,Norwich,195,0
-CT,Wilton,229,0
+CT,Norwalk,2170,1
+CT,Willington,22,0
+CT,Easton,41,0
+CT,Norwich,218,0
+CT,Wilton,231,0
 CT,Ellington,80,0
-CT,Enfield,716,2
-CT,Old Saybrook,119,0
-CT,Windham,347,0
+CT,Old Lyme,28,0
+CT,Winchester,69,0
+CT,Enfield,721,2
+CT,Old Saybrook,120,0
+CT,Windham,385,0
 CT,Essex,56,0
-CT,Orange,142,0
-CT,Windsor,589,2
-CT,Fairfield,704,2
-CT,Oxford,90,0
-CT,Windsor Locks,136,0
-CT,Farmington,241,0
+CT,Orange,146,0
+CT,Windsor,600,2
+CT,Fairfield,705,2
+CT,Oxford,91,0
+CT,Windsor Locks,140,0
+CT,Farmington,249,0
 CT,Plainfield,69,0
 CT,Wolcott,129,0
 CT,Franklin,16,0
-CT,Plainville,182,0
-CT,Woodbridge,140,0
-CT,Glastonbury,322,0
-CT,Plymouth,78,0
-CT,Woodbury,57,0
-CT,Goshen,13,0
-CT,Pomfret,20,0
-CT,Woodstock,33,0
-CT,Granby,36,0
-CT,Portland,75,0
-CT,Greenwich,938,2
+CT,Plainville,190,0
+CT,Woodbridge,139,0
+CT,Glastonbury,328,0
+CT,Plymouth,80,0
+CT,Woodbury,60,0
+CT,Goshen,14,0
+CT,Pomfret,21,0
+CT,Woodstock,35,0
+CT,Granby,38,0
+CT,Portland,79,0
+CT,Greenwich,953,2

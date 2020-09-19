@@ -1,167 +1,163 @@
 city,case_counts,probable_counts
 Andover,9,0
-Griswold,48,2
-Prospect,79,0
-Ansonia,304,7
-Groton,172,14
+Griswold,50,2
+Prospect,78,0
+Ansonia,305,8
+Groton,182,14
 Putnam,42,1
 Ashford,22,1
-Guilford,122,9
-Redding,75,6
-Avon,161,10
+Guilford,129,10
+Redding,75,7
+Avon,173,10
 Haddam,46,1
-Ridgefield,254,13
+Ridgefield,259,13
 Barkhamsted,31,2
-Hamden,1086,41
-Rocky Hill,442,18
-Beacon Falls,61,0
+Hamden,1089,42
+Rocky Hill,453,18
+Beacon Falls,62,0
 Hampton,8,0
-Roxbury,13,3
-Berlin,194,9
-Hartford,2969,124
+Roxbury,14,3
+Berlin,196,9
+Hartford,3070,127
 Salem,15,0
-Bethany,43,1
-Hartland,6,0
-Salisbury,22,1
-Bethel,295,22
+Bethany,44,1
+Hartland,7,0
+Salisbury,25,1
+Bethel,302,24
 Harwinton,35,3
 Scotland,0,0
 Bethlehem,12,1
-Hebron,35,2
-Seymour,234,11
-Bloomfield,546,30
-Kent,14,3
-Sharon,16,0
+Hebron,37,2
+Seymour,236,10
+Bloomfield,557,30
+Kent,18,4
+Sharon,15,0
 Bolton,26,2
-Killingly,49,4
-Shelton,670,41
+Killingly,56,4
+Shelton,687,40
 Bozrah,15,0
-Killingworth,18,0
-Sherman,15,4
-Branford,368,13
-Lebanon,28,0
-Simsbury,140,14
-Bridgeport,4021,123
-Ledyard,35,0
-Somers,296,21
-Bridgewater,12,0
+Killingworth,20,0
+Sherman,15,5
+Branford,373,13
+Lebanon,31,0
+Simsbury,143,14
+Bridgeport,4092,123
+Ledyard,41,0
+Somers,292,21
+Bridgewater,13,2
 Lisbon,12,0
-South Windsor,168,15
-Bristol,681,17
+South Windsor,173,15
+Bristol,693,17
 Litchfield,53,2
-Southbury,210,5
-Brookfield,205,10
-Lyme,7,0
-Southington,381,15
-Brooklyn,151,1
-Madison,164,8
+Southbury,211,6
+Brookfield,209,12
+Lyme,8,1
+Southington,387,16
+Brooklyn,156,1
+Madison,167,8
 Sprague,7,1
-Burlington,40,1
-Manchester,794,61
-Stafford,119,8
+Burlington,41,2
+Manchester,818,61
+Stafford,112,8
 Canaan,0,0
-Mansfield,143,30
-Stamford,3509,79
-Canterbury,20,1
-Marlborough,98,4
-Sterling,8,0
-Canton,93,9
-Meriden,1021,36
-Stonington,36,5
+Mansfield,188,38
+Stamford,3560,79
+Canterbury,21,1
+Marlborough,97,5
+Sterling,9,0
+Canton,96,9
+Meriden,1046,35
+Stonington,34,6
 Chaplin,6,0
-Middlebury,54,5
-Stratford,902,41
-Cheshire,247,8
-Middlefield,22,0
-Suffield,177,16
+Middlebury,54,6
+Stratford,910,41
+Cheshire,255,8
+Middlefield,23,1
+Suffield,178,17
 Chester,50,1
-Middletown,668,25
-Thomaston,69,2
-Clinton,69,4
-Milford,704,27
+Middletown,671,27
+Thomaston,73,2
+Clinton,74,4
+Milford,708,28
 Thompson,47,1
-Colchester,50,3
-Monroe,147,5
+Colchester,55,3
+Monroe,149,5
 Tolland,53,8
 Colebrook,5,0
-Montville,319,7
-Torrington,584,24
-Columbia,29,0
+Montville,323,7
+Torrington,600,25
+Columbia,30,0
 Morris,15,0
-Trumbull,553,52
+Trumbull,561,53
 Cornwall,6,0
-Naugatuck,428,15
+Naugatuck,435,18
 Union,4,1
-Coventry,53,4
-New Britain,1369,58
-Vernon,275,12
-Cromwell,133,14
-New Canaan,212,5
-Voluntown,13,0
-Danbury,2578,131
-New Fairfield,131,5
-Wallingford,530,15
-Darien,251,9
-New Hartford,38,0
+Coventry,58,5
+New Canaan,215,5
+Voluntown,14,0
+Danbury,2677,134
+New Fairfield,136,6
+Wallingford,544,15
+Darien,254,9
+New Hartford,39,0
 Warren,5,0
 Deep River,17,2
-New Haven,2957,68
+New Haven,2979,70
 Washington,27,1
-Derby,187,0
-New London,207,6
-Waterbury,2214,100
-Durham,49,4
-New Milford,330,19
-Waterford,180,8
-East Granby,13,0
-Newington,428,20
-Watertown,167,9
-East Haddam,30,0
-Newtown,272,16
-West Hartford,792,58
+Derby,188,0
+Durham,52,5
+New Milford,334,23
+Waterford,182,8
+East Granby,15,0
+Newington,435,21
+Watertown,166,9
+East Haddam,31,0
+Newtown,285,17
+West Hartford,803,58
 East Hampton,61,5
 Norfolk,14,1
-West Haven,1152,45
-East Hartford,1019,60
-North Branford,92,4
-Westbrook,34,0
-East Haven,431,25
-North Canaan,9,1
+West Haven,1164,46
+North Branford,92,5
+Westbrook,38,0
+East Haven,433,26
+North Canaan,10,1
 Weston,86,4
-East Lyme,158,12
-North Haven,297,9
-Westport,347,14
-East Windsor,201,14
+East Lyme,162,12
+North Haven,301,10
+Westport,355,16
+East Windsor,203,14
 North Stonington,15,1
-Wethersfield,286,6
+Wethersfield,294,7
 Eastford,12,0
-Norwalk,2155,60
-Willington,18,0
-Easton,40,2
-Norwich,195,8
-Wilton,229,26
+Norwalk,2170,60
+Willington,22,0
+Easton,41,2
+Norwich,218,9
+Wilton,231,28
 Ellington,80,4
-Enfield,716,14
-Old Saybrook,119,4
-Windham,347,0
+Old Lyme,28,0
+Winchester,69,1
+Enfield,721,14
+Old Saybrook,120,4
+Windham,385,0
 Essex,56,0
-Orange,142,4
-Windsor,589,45
-Fairfield,704,56
-Oxford,90,4
-Windsor Locks,136,6
-Farmington,241,9
+Orange,146,6
+Windsor,600,47
+Fairfield,705,59
+Oxford,91,4
+Windsor Locks,140,6
+Farmington,249,9
 Plainfield,69,1
-Wolcott,129,7
+Wolcott,129,8
 Franklin,16,0
-Plainville,182,3
-Woodbridge,140,8
-Glastonbury,322,27
-Plymouth,78,5
-Woodbury,57,1
-Goshen,13,1
-Pomfret,20,0
-Woodstock,33,0
-Granby,36,3
-Portland,75,5
-Greenwich,938,47
+Plainville,190,2
+Woodbridge,139,11
+Glastonbury,328,27
+Plymouth,80,5
+Woodbury,60,2
+Goshen,14,1
+Pomfret,21,0
+Woodstock,35,0
+Granby,38,2
+Portland,79,5
+Greenwich,953,47

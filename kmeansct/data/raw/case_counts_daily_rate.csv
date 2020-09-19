@@ -1,0 +1,163 @@
+city,population,weekly_cases,case_counts
+Andover,3231,0,0
+Ansonia,18721,6,5
+Ashford,4261,0,0
+Avon,18302,10,8
+Barkhamsted,3624,0,0
+Beacon Falls,6182,0,0
+Berlin,20432,<5,2
+Bethany,5479,<5,5
+Bethel,19714,10,7
+Bethlehem,3422,0,0
+Bloomfield,21301,7,5
+Bolton,4890,<5,3
+Bozrah,2537,0,0
+Branford,28005,6,3
+Bridgeport,144900,43,4
+Bridgewater,1641,<5,17
+Bristol,60032,11,3
+Brookfield,17002,<5,3
+Brooklyn,8280,<5,3
+Burlington,9665,<5,1
+Canaan,1055,0,0
+Canterbury,5100,<5,6
+Canton,10270,<5,6
+Chaplin,2256,0,0
+Cheshire,29179,9,4
+Chester,4229,<5,3
+Clinton,12950,9,10
+Colchester,15936,<5,2
+Colebrook,1405,0,0
+Columbia,5385,<5,3
+Cornwall,1368,0,0
+Coventry,12414,<5,6
+Cromwell,13905,<5,2
+Danbury,84730,84,14
+Darien,21753,<5,3
+Deep River,4463,0,0
+Derby,12515,<5,3
+Durham,7195,<5,4
+East Granby,5147,<5,6
+East Hampton,12854,<5,1
+East Hartford,49998,22,6
+East Haven,28699,<5,0
+East Lyme,18645,<5,2
+East Windsor,11375,<5,1
+Eastford,1790,0,0
+Easton,7517,<5,2
+Ellington,16299,0,0
+Enfield,44466,7,2
+Essex,6674,<5,2
+Fairfield,61952,8,2
+Farmington,25506,<5,1
+Franklin,1933,0,0
+Glastonbury,34491,6,2
+Goshen,2879,0,0
+Granby,11375,<5,5
+Greenwich,62727,8,2
+Griswold,11591,<5,2
+Groton,38692,<5,2
+Guilford,22216,9,6
+Haddam,8222,<5,3
+Hamden,60940,<5,0
+Hampton,1853,0,0
+Hartford,122587,69,8
+Hartland,2120,0,0
+Harwinton,5430,0,0
+Hebron,9482,<5,3
+Kent,2785,<5,21
+Killingly,17287,7,6
+Killingworth,6370,<5,4
+Lebanon,7207,<5,6
+Ledyard,14736,<5,5
+Lisbon,4248,<5,3
+Litchfield,8127,<5,4
+Lyme,2338,<5,6
+Madison,18106,<5,3
+Manchester,57699,29,7
+Mansfield,25817,45,25
+Marlborough,6358,0,0
+Meriden,59540,19,5
+Middlebury,7731,<5,2
+Middlefield,4380,<5,10
+Middletown,46146,<5,2
+Milford,54661,10,3
+Monroe,19470,<5,1
+Montville,18716,<5,4
+Morris,2262,0,0
+Naugatuck,31288,8,4
+New Britain,72453,47,9
+New Canaan,20213,<5,3
+New Fairfield,13877,<5,3
+New Hartford,6685,<5,4
+New Haven,130418,27,3
+New London,26939,<5,1
+New Milford,26974,9,5
+Newington,30112,6,3
+Newtown,27774,7,4
+Norfolk,1640,0,0
+North Canaan,3254,<5,4
+North Haven,23691,<5,2
+Norwich,39136,16,6
+Old Lyme,7366,<5,2
+Old Saybrook,10087,0,0
+Orange,13949,<5,1
+Oxford,13226,<5,1
+Plainfield,15173,0,0
+Plainville,17623,<5,3
+Plymouth,11645,<5,4
+Pomfret,4204,0,0
+Portland,9305,<5,5
+Preston,4638,<5,3
+Prospect,9790,<5,3
+Putnam,9395,0,0
+Redding,9125,0,0
+Ridgefield,25008,6,3
+Rocky Hill,20145,<5,3
+Roxbury,2160,<5,20
+Salem,4123,0,0
+Salisbury,3598,<5,12
+Scotland,1685,0,0
+Seymour,16509,<5,2
+Sharon,2703,0,0
+Shelton,41097,16,6
+Sherman,3614,<5,4
+Simsbury,24979,<5,2
+Somers,10834,0,0
+Southington,43807,9,3
+Sprague,2889,0,0
+Stafford,11884,0,0
+Stamford,129775,39,4
+Sterling,3780,0,0
+Stonington,18449,<5,1
+Stratford,51967,10,3
+Suffield,15743,<5,3
+Thomaston,7560,<5,2
+Thompson,9395,0,0
+Tolland,14655,<5,1
+Torrington,34228,12,5
+Trumbull,35802,12,5
+Union,840,0,0
+Vernon,29303,9,4
+Voluntown,2535,<5,6
+Wallingford,44535,11,4
+Warren,1399,0,0
+Washington,3434,0,0
+Waterbury,108093,37,5
+Waterford,18887,<5,2
+Watertown,21641,<5,1
+West Hartford,62939,15,3
+West Haven,54879,10,3
+Westbrook,6914,<5,6
+Weston,10247,<5,1
+Westport,28115,8,4
+Wethersfield,26082,6,3
+Willington,5887,<5,10
+Wilton,18397,<5,2
+Winchester,10655,0,0
+Windham,24706,37,21
+Windsor,28760,10,5
+Windsor Locks,12876,<5,2
+Wolcott,16649,0,0
+Woodbridge,8805,<5,2
+Woodbury,9537,<5,3

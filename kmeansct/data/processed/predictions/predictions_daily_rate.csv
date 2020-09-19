@@ -1,0 +1,163 @@
+state,city,population,weekly_cases,case_counts,group
+CT,Andover,3231,0,0,0
+CT,Ansonia,18721,6,5,2
+CT,Ashford,4261,0,0,0
+CT,Avon,18302,10,8,2
+CT,Barkhamsted,3624,0,0,0
+CT,Beacon Falls,6182,0,0,0
+CT,Berlin,20432,<5,2,0
+CT,Bethany,5479,<5,5,2
+CT,Bethel,19714,10,7,2
+CT,Bethlehem,3422,0,0,0
+CT,Bloomfield,21301,7,5,2
+CT,Bolton,4890,<5,3,0
+CT,Bozrah,2537,0,0,0
+CT,Branford,28005,6,3,0
+CT,Bridgeport,144900,43,4,2
+CT,Bridgewater,1641,<5,17,1
+CT,Bristol,60032,11,3,0
+CT,Brookfield,17002,<5,3,0
+CT,Brooklyn,8280,<5,3,0
+CT,Burlington,9665,<5,1,0
+CT,Canaan,1055,0,0,0
+CT,Canterbury,5100,<5,6,2
+CT,Canton,10270,<5,6,2
+CT,Chaplin,2256,0,0,0
+CT,Cheshire,29179,9,4,2
+CT,Chester,4229,<5,3,0
+CT,Clinton,12950,9,10,2
+CT,Colchester,15936,<5,2,0
+CT,Colebrook,1405,0,0,0
+CT,Columbia,5385,<5,3,0
+CT,Cornwall,1368,0,0,0
+CT,Coventry,12414,<5,6,2
+CT,Cromwell,13905,<5,2,0
+CT,Danbury,84730,84,14,1
+CT,Darien,21753,<5,3,0
+CT,Deep River,4463,0,0,0
+CT,Derby,12515,<5,3,0
+CT,Durham,7195,<5,4,2
+CT,East Granby,5147,<5,6,2
+CT,East Hampton,12854,<5,1,0
+CT,East Hartford,49998,22,6,2
+CT,East Haven,28699,<5,0,0
+CT,East Lyme,18645,<5,2,0
+CT,East Windsor,11375,<5,1,0
+CT,Eastford,1790,0,0,0
+CT,Easton,7517,<5,2,0
+CT,Ellington,16299,0,0,0
+CT,Enfield,44466,7,2,0
+CT,Essex,6674,<5,2,0
+CT,Fairfield,61952,8,2,0
+CT,Farmington,25506,<5,1,0
+CT,Franklin,1933,0,0,0
+CT,Glastonbury,34491,6,2,0
+CT,Goshen,2879,0,0,0
+CT,Granby,11375,<5,5,2
+CT,Greenwich,62727,8,2,0
+CT,Griswold,11591,<5,2,0
+CT,Groton,38692,<5,2,0
+CT,Guilford,22216,9,6,2
+CT,Haddam,8222,<5,3,0
+CT,Hamden,60940,<5,0,0
+CT,Hampton,1853,0,0,0
+CT,Hartford,122587,69,8,2
+CT,Hartland,2120,0,0,0
+CT,Harwinton,5430,0,0,0
+CT,Hebron,9482,<5,3,0
+CT,Kent,2785,<5,21,1
+CT,Killingly,17287,7,6,2
+CT,Killingworth,6370,<5,4,2
+CT,Lebanon,7207,<5,6,2
+CT,Ledyard,14736,<5,5,2
+CT,Lisbon,4248,<5,3,0
+CT,Litchfield,8127,<5,4,2
+CT,Lyme,2338,<5,6,2
+CT,Madison,18106,<5,3,0
+CT,Manchester,57699,29,7,2
+CT,Mansfield,25817,45,25,1
+CT,Marlborough,6358,0,0,0
+CT,Meriden,59540,19,5,2
+CT,Middlebury,7731,<5,2,0
+CT,Middlefield,4380,<5,10,2
+CT,Middletown,46146,<5,2,0
+CT,Milford,54661,10,3,0
+CT,Monroe,19470,<5,1,0
+CT,Montville,18716,<5,4,2
+CT,Morris,2262,0,0,0
+CT,Naugatuck,31288,8,4,2
+CT,New Britain,72453,47,9,2
+CT,New Canaan,20213,<5,3,0
+CT,New Fairfield,13877,<5,3,0
+CT,New Hartford,6685,<5,4,2
+CT,New Haven,130418,27,3,0
+CT,New London,26939,<5,1,0
+CT,New Milford,26974,9,5,2
+CT,Newington,30112,6,3,0
+CT,Newtown,27774,7,4,2
+CT,Norfolk,1640,0,0,0
+CT,North Canaan,3254,<5,4,2
+CT,North Haven,23691,<5,2,0
+CT,Norwich,39136,16,6,2
+CT,Old Lyme,7366,<5,2,0
+CT,Old Saybrook,10087,0,0,0
+CT,Orange,13949,<5,1,0
+CT,Oxford,13226,<5,1,0
+CT,Plainfield,15173,0,0,0
+CT,Plainville,17623,<5,3,0
+CT,Plymouth,11645,<5,4,2
+CT,Pomfret,4204,0,0,0
+CT,Portland,9305,<5,5,2
+CT,Preston,4638,<5,3,0
+CT,Prospect,9790,<5,3,0
+CT,Putnam,9395,0,0,0
+CT,Redding,9125,0,0,0
+CT,Ridgefield,25008,6,3,0
+CT,Rocky Hill,20145,<5,3,0
+CT,Roxbury,2160,<5,20,1
+CT,Salem,4123,0,0,0
+CT,Salisbury,3598,<5,12,2
+CT,Scotland,1685,0,0,0
+CT,Seymour,16509,<5,2,0
+CT,Sharon,2703,0,0,0
+CT,Shelton,41097,16,6,2
+CT,Sherman,3614,<5,4,2
+CT,Simsbury,24979,<5,2,0
+CT,Somers,10834,0,0,0
+CT,Southington,43807,9,3,0
+CT,Sprague,2889,0,0,0
+CT,Stafford,11884,0,0,0
+CT,Stamford,129775,39,4,2
+CT,Sterling,3780,0,0,0
+CT,Stonington,18449,<5,1,0
+CT,Stratford,51967,10,3,0
+CT,Suffield,15743,<5,3,0
+CT,Thomaston,7560,<5,2,0
+CT,Thompson,9395,0,0,0
+CT,Tolland,14655,<5,1,0
+CT,Torrington,34228,12,5,2
+CT,Trumbull,35802,12,5,2
+CT,Union,840,0,0,0
+CT,Vernon,29303,9,4,2
+CT,Voluntown,2535,<5,6,2
+CT,Wallingford,44535,11,4,2
+CT,Warren,1399,0,0,0
+CT,Washington,3434,0,0,0
+CT,Waterbury,108093,37,5,2
+CT,Waterford,18887,<5,2,0
+CT,Watertown,21641,<5,1,0
+CT,West Hartford,62939,15,3,0
+CT,West Haven,54879,10,3,0
+CT,Westbrook,6914,<5,6,2
+CT,Weston,10247,<5,1,0
+CT,Westport,28115,8,4,2
+CT,Wethersfield,26082,6,3,0
+CT,Willington,5887,<5,10,2
+CT,Wilton,18397,<5,2,0
+CT,Winchester,10655,0,0,0
+CT,Windham,24706,37,21,1
+CT,Windsor,28760,10,5,2
+CT,Windsor Locks,12876,<5,2,0
+CT,Wolcott,16649,0,0,0
+CT,Woodbridge,8805,<5,2,0
+CT,Woodbury,9537,<5,3,0
