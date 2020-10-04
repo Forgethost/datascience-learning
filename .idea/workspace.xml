@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2d55c5b-b91d-46ce-bd59-79dbcfa3b679" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/kmeansct/src/cumulative_counts_cluster.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmeansct/data/processed/predictions/predictions_bands.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kmeansct/data/processed/predictions/predictions_bands.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmeansct/data/processed/predictions/predictions_daily_rate_1d.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmeansct/data/processed/predictions/predictions_daily_rate_zip.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kmeansct/data/processed/predictions/predictions_daily_rate_zip.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmeansct/data/raw/zipMap.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kmeansct/data/raw/zipMap.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmeansct/notebooks/.ipynb_checkpoints/Kmeans_1d_case counts as X-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kmeansct/notebooks/.ipynb_checkpoints/Kmeans_1d_case counts as X-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmeansct/notebooks/Kmeans_1d_case counts as X.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kmeansct/notebooks/Kmeans_1d_case counts as X.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,32 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="cumulative_counts_cluster.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kmeansct/src/cumulative_counts_cluster.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="81" column="4" lean-forward="true" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="daily_rate_cluster.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kmeansct/src/daily_rate_cluster.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3888">
-              <caret line="266" column="42" lean-forward="true" selection-start-line="266" selection-start-column="42" selection-end-line="266" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,7 +44,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,21 +51,11 @@
               <item name="datascience-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="datascience-learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="datascience-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datascience-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="kmeansct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datascience-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datascience-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="kmeansct" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,38 +113,36 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3291592" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" x="0" y="23" width="1281" height="658" id="Terminal" side_tool="true" type="WINDOWED" visible="true" weight="0.3291592" />
+      <window_info anchor="bottom" x="0" y="23" width="1281" height="658" id="Terminal" order="7" side_tool="true" type="WINDOWED" weight="0.3291592" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.3291592" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24939272" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" id="R Graphics" order="0" />
       <window_info anchor="right" id="R Packages" order="1" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -195,6 +151,7 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Python Console" order="3" />
     </layout-to-restore>
@@ -203,13 +160,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kmeansct/src/daily_rate_cluster">
+    <entry file="file://$PROJECT_DIR$/kmeansct/src/daily_rate_cluster" />
+    <entry file="file://$PROJECT_DIR$/kmeansct/src/cumulative_counts_cluster.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3745">
-          <caret line="80" column="28" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="137">
+          <caret line="81" column="4" lean-forward="true" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -217,19 +172,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3888">
           <caret line="266" column="42" lean-forward="true" selection-start-line="266" selection-start-column="42" selection-end-line="266" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kmeansct/src/cumulative_counts_cluster.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="81" column="4" lean-forward="true" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
