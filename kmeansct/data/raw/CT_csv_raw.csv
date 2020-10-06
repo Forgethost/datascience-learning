@@ -1,0 +1,169 @@
+city,case_counts
+Andover,10
+Griswold,68
+Prospect,79
+Ansonia,317
+Groton,216
+Putnam,47
+Ashford,24
+Guilford,131
+Redding,77
+Avon,184
+Haddam,48
+Ridgefield,268
+Barkhamsted,31
+Hamden,1106
+Rocky Hill,462
+Beacon Falls,65
+Hampton,8
+Roxbury,15
+Berlin,209
+Hartford,3236
+Salem,23
+Bethany,49
+Hartland,7
+Salisbury,27
+Bethel,309
+Harwinton,36
+Scotland,0
+Bethlehem,13
+Hebron,44
+Seymour,239
+Bloomfield,586
+Kent,18
+Sharon,15
+Bolton,32
+Killingly,60
+Shelton,691
+Bozrah,17
+Killingworth,23
+Sherman,16
+Branford,376
+Lebanon,41
+Simsbury,152
+Bridgeport,4193
+Ledyard,65
+Somers,291
+Bridgewater,13
+Lisbon,17
+South Windsor,186
+Bristol,723
+Litchfield,60
+Southbury,217
+Brookfield,215
+Lyme,8
+Southington,403
+Brooklyn,171
+Madison,170
+Sprague,11
+Burlington,45
+Manchester,857
+Stafford,113
+Canaan,0
+Mansfield,285
+Stamford,3657
+Canterbury,23
+Marlborough,100
+Sterling,9
+Canton,100
+Meriden,1095
+Stonington,39
+Chaplin,9
+Middlebury,54
+Stratford,938
+Cheshire,262
+Middlefield,28
+Suffield,190
+Chester,54
+Middletown,692
+Thomaston,75
+Clinton,80
+Milford,729
+Thompson,50
+Colchester,106
+Monroe,150
+Tolland,59
+Colebrook,6
+Montville,328
+Torrington,622
+Columbia,30
+Morris,15
+Trumbull,573
+Cornwall,6
+Naugatuck,458
+Union,4
+Coventry,70
+New Britain,1551
+Vernon,296
+Cromwell,143
+New Canaan,215
+Voluntown,17
+Danbury,2840
+New Fairfield,144
+Wallingford,568
+Darien,262
+New Hartford,39
+Warren,5
+Deep River,18
+New Haven,2999
+Washington,29
+Derby,196
+New London,287
+Waterbury,2394
+Durham,56
+New Milford,342
+Waterford,193
+Granby,16
+Newington,450
+Watertown,177
+East Haddam,34
+Newtown,290
+West Hartford,869
+East Hampton,66
+Norfolk,16
+West Haven,1179
+East Hartford,1110
+North Branford,97
+Westbrook,39
+East Haven,441
+North Canaan,11
+Weston,88
+East Lyme,175
+North Haven,303
+Westport,364
+East Windsor,205
+North Stonington,17
+Wethersfield,308
+Eastford,14
+Norwalk,2218
+Willington,24
+Easton,42
+Norwich,408
+Wilton,237
+Ellington,84
+Old Lyme,28
+Winchester,70
+Enfield,739
+Old Saybrook,121
+Windham,461
+Essex,58
+Orange,151
+Windsor,616
+Fairfield,827
+Oxford,90
+Windsor Locks,149
+Farmington,259
+Plainfield,78
+Wolcott,137
+Franklin,19
+Plainville,198
+Woodbridge,142
+Glastonbury,342
+Plymouth,84
+Woodbury,63
+Goshen,14
+Pomfret,22
+Woodstock,37
+Granby,41
+Portland,81
+Greenwich,960
