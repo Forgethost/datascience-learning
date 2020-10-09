@@ -149,7 +149,7 @@ Zip Code,City,County
 6251,Mansfield Depot,Tolland
 6254,North Franklin,New London
 6255,North Grosvenordale,Windham
-6256,North Windham,Windham
+6256,Windham,Windham
 6258,Pomfret,Windham
 6259,Pomfret Center,Windham
 6260,Putnam,Windham
@@ -168,7 +168,7 @@ Zip Code,City,County
 6281,Woodstock,Windham
 6282,Woodstock Valley,Windham
 6320,New London,New London
-6330,Baltic,New London
+9999,Baltic,New London
 6331,Canterbury,Windham
 6332,Central Village,Windham
 6333,East Lyme,New London
@@ -180,7 +180,6 @@ Zip Code,City,County
 6340,Groton,New London
 6349,Groton,New London
 6350,Hanover,New London
-6351,Jewett City,New London
 6353,Montville,New London
 6354,Moosup,Windham
 6355,Mystic,New London
@@ -441,7 +440,7 @@ Zip Code,City,County
 6351,Griswold,NA
 6027,Hartland,NA
 6239,Killingly,NA
-6330,Lisbon,NA
+9999,Lisbon,NA
 6226,Mansfield,NA
 6018,North Canaan,NA
 6330,Sprague,NA

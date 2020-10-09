@@ -1,169 +1,170 @@
 city,case_counts
-Andover,10
-Griswold,68
-Prospect,79
-Ansonia,317
-Groton,216
-Putnam,47
-Ashford,24
-Guilford,131
-Redding,77
-Avon,184
-Haddam,48
-Ridgefield,268
-Barkhamsted,31
-Hamden,1106
-Rocky Hill,462
-Beacon Falls,65
-Hampton,8
-Roxbury,15
-Berlin,209
-Hartford,3236
-Salem,23
-Bethany,49
-Hartland,7
-Salisbury,27
-Bethel,309
-Harwinton,36
-Scotland,0
-Bethlehem,13
-Hebron,44
-Seymour,239
-Bloomfield,586
-Kent,18
-Sharon,15
-Bolton,32
-Killingly,60
-Shelton,691
-Bozrah,17
-Killingworth,23
-Sherman,16
-Branford,376
-Lebanon,41
-Simsbury,152
-Bridgeport,4193
-Ledyard,65
-Somers,291
-Bridgewater,13
-Lisbon,17
-South Windsor,186
-Bristol,723
-Litchfield,60
-Southbury,217
-Brookfield,215
-Lyme,8
-Southington,403
-Brooklyn,171
-Madison,170
-Sprague,11
-Burlington,45
-Manchester,857
-Stafford,113
+Andover,4.4
+Ansonia,3.8
+Ashford,0
+Avon,3.1
+Barkhamsted,0
+Beacon Falls,2.3
+Berlin,3.5
+Bethany,3.9
+Bethel,3.6
+Bethlehem,2.1
+Bloomfield,11.7
+Bolton,5.8
+Bozrah,5.6
+Branford,1.8
+Bridgeport,5.4
+Bridgewater,4.4
+Bristol,4.5
+Brookfield,2.9
+Brooklyn,8.6
+Burlington,4.4
 Canaan,0
-Mansfield,285
-Stamford,3657
-Canterbury,23
-Marlborough,100
-Sterling,9
-Canton,100
-Meriden,1095
-Stonington,39
-Chaplin,9
-Middlebury,54
-Stratford,938
-Cheshire,262
-Middlefield,28
-Suffield,190
-Chester,54
-Middletown,692
-Thomaston,75
-Clinton,80
-Milford,729
-Thompson,50
-Colchester,106
-Monroe,150
-Tolland,59
-Colebrook,6
-Montville,328
-Torrington,622
-Columbia,30
-Morris,15
-Trumbull,573
-Cornwall,6
-Naugatuck,458
-Union,4
-Coventry,70
-New Britain,1551
-Vernon,296
-Cromwell,143
-New Canaan,215
-Voluntown,17
-Danbury,2840
-New Fairfield,144
-Wallingford,568
-Darien,262
-New Hartford,39
-Warren,5
-Deep River,18
-New Haven,2999
-Washington,29
-Derby,196
-New London,287
-Waterbury,2394
-Durham,56
-New Milford,342
-Waterford,193
-Granby,16
-Newington,450
-Watertown,177
-East Haddam,34
-Newtown,290
-West Hartford,869
-East Hampton,66
-Norfolk,16
-West Haven,1179
-East Hartford,1110
-North Branford,97
-Westbrook,39
-East Haven,441
-North Canaan,11
-Weston,88
-East Lyme,175
-North Haven,303
-Westport,364
-East Windsor,205
-North Stonington,17
-Wethersfield,308
-Eastford,14
-Norwalk,2218
-Willington,24
-Easton,42
-Norwich,408
-Wilton,237
-Ellington,84
-Old Lyme,28
-Winchester,70
-Enfield,739
-Old Saybrook,121
-Windham,461
-Essex,58
-Orange,151
-Windsor,616
-Fairfield,827
-Oxford,90
-Windsor Locks,149
-Farmington,259
-Plainfield,78
-Wolcott,137
-Franklin,19
-Plainville,198
-Woodbridge,142
-Glastonbury,342
-Plymouth,84
-Woodbury,63
-Goshen,14
-Pomfret,22
-Woodstock,37
-Granby,41
-Portland,81
-Greenwich,960
+Canterbury,7.0
+Canton,3.5
+Chaplin,6.3
+Cheshire,4.4
+Chester,3.4
+Clinton,3.9
+Colchester,9.4
+Colebrook,0
+Columbia,0
+Cornwall,0
+Coventry,4.6
+Cromwell,4.6
+Danbury,14.2
+Darien,1.6
+Deep River,0
+Derby,4.6
+Durham,3.0
+East Granby,1.4
+East Haddam,2.4
+East Hampton,2.8
+East Hartford,11.4
+East Haven,2.7
+East Lyme,8.4
+East Windsor,0.6
+Eastford,8.0
+Easton,2.9
+Ellington,3.1
+Enfield,3.5
+Essex,2.1
+Fairfield,11.1
+Farmington,4.5
+Franklin,11.1
+Glastonbury,4.6
+Goshen,0
+Granby,1.9
+Greenwich,0.8
+Griswold,14.8
+Groton,7.6
+Guilford,1.3
+Haddam,5.2
+Hamden,2.3
+Hampton,0
+Hartford,11.9
+Hartland,0
+Harwinton,1.3
+Hebron,8.3
+Kent,0
+Killingly,1.7
+Killingworth,3.4
+Lebanon,9.9
+Ledyard,10.7
+Lisbon,5.0
+Litchfield,9.7
+Lyme,0
+Madison,0
+Manchester,5.8
+Mansfield,11.3
+Marlborough,2.2
+Meriden,5.2
+Middlebury,1.8
+Middlefield,3.3
+Middletown,2.9
+Milford,3.4
+Monroe,1.5
+Montville,9.5
+Morris,0
+Naugatuck,7.3
+New Britain,14.3
+New Canaan,3.2
+New Fairfield,3.1
+Hartford,1.1
+New Haven,2.4
+New London,30.5
+New Milford,1.9
+Newington,5.7
+Newtown,2.3
+Norfolk,4.4
+Branford,2.5
+North Canaan,0
+North Haven,2.1
+Stonington,2.7
+Norwalk,5.5
+Norwich,46.9
+Old Lyme,1.0
+Old Saybrook,2.1
+Orange,3.1
+Oxford,2.7
+Plainfield,7.1
+Plainville,3.6
+Plymouth,1.2
+Pomfret,1.7
+Portland,3.1
+Preston,23.1
+Prospect,3.6
+Putnam,2.3
+Redding,2.3
+Ridgefield,2.6
+Rocky Hill,2.5
+Roxbury,0
+Salem,13.9
+Salisbury,4.0
+Scotland,0
+Seymour,1.7
+Sharon,0
+Shelton,2.1
+Sherman,0
+Simsbury,1.4
+Somers,6.6
+Windsor,5.2
+Southbury,2.2
+Southington,2.8
+Sprague,14.8
+Stafford,3.6
+Stamford,5.0
+Sterling,1.9
+Stonington,3.1
+Stratford,4.0
+Suffield,7.3
+Thomaston,0
+Thompson,4.6
+Tolland,2.4
+Torrington,2.3
+Trumbull,1.6
+Union,0
+Vernon,4.9
+Voluntown,14.1
+Wallingford,3.7
+Warren,0
+Washington,0
+Waterbury,9.1
+Waterford,7.9
+Watertown,5.0
+West Hartford,6.9
+West Haven,2.7
+Westbrook,3.1
+Weston,2.1
+Westport,2.8
+Wethersfield,4.7
+Willington,1.2
+Wilton,2.3
+Winchester,2.0
+Windham,24.0
+Windsor,3.7
+Windsor Locks,2.2
+Wolcott,3.4
+Woodbridge,4.1
+Woodbury,2.2
+Woodstock,0.9
