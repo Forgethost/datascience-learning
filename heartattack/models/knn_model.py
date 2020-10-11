@@ -10,6 +10,8 @@ from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import confusion_matrix, classification_report, f1_score,accuracy_score
 from model_functions import *
 
@@ -58,7 +60,9 @@ if __name__ == "__main__":
     y_test = test_data[model_target]
     
     classifier = Pipeline([('imputer',SimpleImputer(strategy='mean')),
-                            ('estimator',KNeighborsClassifier(n_neighbors=8,metric="manhattan"))   
+                           #('dt',DecisionTreeClassifier(criterion='gini')),
+                           ('clf',RandomForestClassifier(n_estimators=100,max_samples=None, max_features='auto',criterion='gini'))
+                            #('estimator',KNeighborsClassifier(n_neighbors=8,metric="manhattan"))   
                         ])
     
     knn_clf = classifier.fit(X_train,y_train)
